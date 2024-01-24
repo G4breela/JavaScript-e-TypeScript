@@ -9,3 +9,11 @@ if(resposta == true){
     alert(`Oi ${nome}, estou ligando para o seu psiquiatra!`)
 }
 
+// Exercicio daqui pra baixo;
+
+let num1 = Number(prompt('Digite um numero: '));
+let num2 = Number(prompt('Digite outro numero: '));
+
+let resultado = num1 + num2;
+
+alert(`O resultado da soma entre esses número é: ${resultado}`);
